@@ -1,0 +1,10 @@
+username: shafa
+kereta: Tawang Jaya
+kelas: Ekesekutif
+stasiun_berangkat: Poncol
+tujuan: tegal
+tanggal_berangkat: 20-12-2023
+jam_berangkat: 08:00
+jam_datang: 10:30
+nomor_kursi: 2
+=============================
